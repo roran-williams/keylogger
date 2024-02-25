@@ -44,7 +44,7 @@ This Python script is a basic keylogger designed to capture keyboard input and s
 
 ## Configuration
 
-Edit the `keylogger.py` file to customize the following parameters:
+Edit the `Rlogger.py` file to customize the following parameters:
 
 - `time_interval`: Time interval (in seconds) for sending email reports.
 - `email`: Your email address for sending reports.
